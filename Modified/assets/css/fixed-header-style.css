@@ -1,3 +1,7 @@
+/* Great Site on CSS for future info 
+    https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,6 +17,9 @@ body {
 
 /* || Header */
 header {
+    position: fixed;
+    top: 0px;
+    width: 100%; 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -123,6 +130,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    margin-top: 95px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -137,5 +145,4 @@ p {
     float: right;
     margin-left: 25px;
 }
-
 
