@@ -8,3 +8,6 @@ This is Jeff Severson's Homework Assignment for Week 1
 
 Rev3 is the current final revision
 - Added in a fixed header stylesheet for practice on a exsisting webpage.
+
+Published Github Site URL:
+https://jeffseverson2001.github.io/01-HTML-Git-CSS-02-Homework/Modified/
